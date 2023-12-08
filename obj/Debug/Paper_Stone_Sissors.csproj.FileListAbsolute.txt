@@ -1,0 +1,10 @@
+E:\Mohammed Abu-Hadhoud\Course(14)\MyProjects C#\Paper_Stone_Sissors\bin\Debug\Paper_Stone_Sissors.exe.config
+E:\Mohammed Abu-Hadhoud\Course(14)\MyProjects C#\Paper_Stone_Sissors\bin\Debug\Paper_Stone_Sissors.exe
+E:\Mohammed Abu-Hadhoud\Course(14)\MyProjects C#\Paper_Stone_Sissors\bin\Debug\Paper_Stone_Sissors.pdb
+E:\Mohammed Abu-Hadhoud\Course(14)\MyProjects C#\Paper_Stone_Sissors\obj\Debug\Paper_Stone_Sissors.csproj.AssemblyReference.cache
+E:\Mohammed Abu-Hadhoud\Course(14)\MyProjects C#\Paper_Stone_Sissors\obj\Debug\Paper_Stone_Sissors.Form1.resources
+E:\Mohammed Abu-Hadhoud\Course(14)\MyProjects C#\Paper_Stone_Sissors\obj\Debug\Paper_Stone_Sissors.Properties.Resources.resources
+E:\Mohammed Abu-Hadhoud\Course(14)\MyProjects C#\Paper_Stone_Sissors\obj\Debug\Paper_Stone_Sissors.csproj.GenerateResource.cache
+E:\Mohammed Abu-Hadhoud\Course(14)\MyProjects C#\Paper_Stone_Sissors\obj\Debug\Paper_Stone_Sissors.csproj.CoreCompileInputs.cache
+E:\Mohammed Abu-Hadhoud\Course(14)\MyProjects C#\Paper_Stone_Sissors\obj\Debug\Paper_Stone_Sissors.exe
+E:\Mohammed Abu-Hadhoud\Course(14)\MyProjects C#\Paper_Stone_Sissors\obj\Debug\Paper_Stone_Sissors.pdb
